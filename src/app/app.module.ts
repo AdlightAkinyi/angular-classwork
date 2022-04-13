@@ -11,6 +11,7 @@ import { ParentComponentComponent } from './Basics/component-data-binding/parent
 import { ChildComponentComponent } from './Basics/component-data-binding/child-component/child-component.component';
 import { InterpolationComponent } from './Basics/Data-binding/Interpolation/interpolation/interpolation.component';
 import { PropertyBindingComponent } from './Basics/Data-binding/property-binding/property-binding/property-binding.component';
+import { EventBindingComponent } from './Basics/Data-binding/Event-binding/event-binding/event-binding.component';
 
 
 
@@ -27,6 +28,7 @@ import { PropertyBindingComponent } from './Basics/Data-binding/property-binding
     ChildComponentComponent,
     InterpolationComponent,
     PropertyBindingComponent,
+    EventBindingComponent,
     
 
 
