@@ -7,6 +7,13 @@ import { FirstIntroductionComponent } from './Introduction/first-introduction/fi
 import { SecondComponentComponent } from './Introduction/second-component/second-component.component';
 
 
+import { ParentComponentComponent } from './Basics/component-data-binding/parent-component/parent-component.component';
+import { ChildComponentComponent } from './Basics/component-data-binding/child-component/child-component.component';
+import { InterpolationComponent } from './Basics/Data-binding/Interpolation/interpolation/interpolation.component';
+import { PropertyBindingComponent } from './Basics/Data-binding/property-binding/property-binding/property-binding.component';
+
+
+
 
 
 @NgModule({
@@ -14,6 +21,13 @@ import { SecondComponentComponent } from './Introduction/second-component/second
     AppComponent,
     FirstIntroductionComponent,
     SecondComponentComponent,
+    
+    
+    ParentComponentComponent,
+    ChildComponentComponent,
+    InterpolationComponent,
+    PropertyBindingComponent,
+    
 
 
   ],

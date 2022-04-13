@@ -12,7 +12,7 @@ export class ChildComponentComponent implements OnInit {
 
   ngOnInit(): void {
 
-    addItem() {
+    
       this.addcity.emit('Nairobi'); 
   }
 
