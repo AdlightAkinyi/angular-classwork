@@ -13,6 +13,7 @@ import { InterpolationComponent } from './Basics/Data-binding/Interpolation/inte
 import { PropertyBindingComponent } from './Basics/Data-binding/property-binding/property-binding/property-binding.component';
 import { EventBindingComponent } from './Basics/Data-binding/Event-binding/event-binding/event-binding.component';
 import { TwoWayDataBindingComponent } from './Basics/Data-binding/two-way-data-binding/two-way-data-binding/two-way-data-binding.component';
+import { StructuralDirectiveComponent } from './Basics/Directives/structural-directive/structural-directive.component';
 
 
 
@@ -31,6 +32,7 @@ import { TwoWayDataBindingComponent } from './Basics/Data-binding/two-way-data-b
     PropertyBindingComponent,
     EventBindingComponent,
     TwoWayDataBindingComponent,
+    StructuralDirectiveComponent,
     
 
 
